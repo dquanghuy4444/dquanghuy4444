@@ -10,5 +10,3 @@
 <h4 align='center' style='color:red'> <i> Have a good day !!! </i> 😘😘😘
 </h4>
 
-<img src="https://github.com/dquanghuy4444/dquanghuy4444/blob/main/eecc42c92afa81900f655d4328d790c1.gif" width="100%">
-
