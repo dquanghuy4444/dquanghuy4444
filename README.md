@@ -9,5 +9,6 @@
 
 <p align='center'> Have a good day ! 
 </p>
-## [![Huy Header](https://github.com/dquanghuy4444/dquanghuy4444/blob/main/eecc42c92afa81900f655d4328d790c1.gif)](https://www.facebook.com/dqhuy4444)
+
+<img src="https://github.com/dquanghuy4444/dquanghuy4444/blob/main/eecc42c92afa81900f655d4328d790c1.gif" width="100%">
 
